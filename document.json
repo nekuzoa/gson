@@ -1,0 +1,24 @@
+{
+  "especialidade": [
+    {
+      "dentista": [
+        {
+          "name": "Antonio"
+        },
+        {
+          "name": "Carlos"
+        }
+      ]
+    },
+    {
+      "Pediatra": [
+        {
+          "name": "João"
+        },
+        {
+          "name": "Ana"
+        }
+      ]
+    }
+  ]
+}
